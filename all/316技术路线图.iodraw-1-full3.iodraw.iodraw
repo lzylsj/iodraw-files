@@ -623,7 +623,7 @@
           <mxGeometry x="1255" y="399.01" width="375" height="202.99" as="geometry" />
         </mxCell>
         <mxCell id="CLtFh6o93tBCStXbBhBC-910" value="模块一 多工况故障演化动力学建模与物理先验提取" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1;fontColor=#ffffff;fontSize=15;textShadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1058.8999999999999" y="8" width="387.2" height="30" as="geometry" />
+          <mxGeometry x="1058.8999999999999" y="-199" width="387.2" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CLtFh6o93tBCStXbBhBC-917" value="机理样本生成" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillStyle=auto;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#CCE5FF;" parent="1" vertex="1">
           <mxGeometry x="1505.8" y="568.4" width="90.58" height="23.75" as="geometry" />
@@ -632,7 +632,7 @@
           <mxGeometry x="1506.3000000000002" y="529.9999999999999" width="64.1" height="21" as="geometry" />
         </mxCell>
         <mxCell id="CLtFh6o93tBCStXbBhBC-1099" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;rounded=1;fillStyle=auto;gradientColor=none;container=0;opacity=90;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="855" y="39" width="775" height="70" as="geometry" />
+          <mxGeometry x="855" y="-168" width="775" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CLtFh6o93tBCStXbBhBC-1100" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1769" y="256.38" width="375" height="130" as="geometry" />
@@ -814,19 +814,19 @@
           <mxGeometry x="1400.68" y="397.01" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CLtFh6o93tBCStXbBhBC-935" value="前期成果支持" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="1068.0002827043606" y="34" width="368.7031604213895" height="30" as="geometry" />
+          <mxGeometry x="1068.0002827043606" y="-173" width="368.7031604213895" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FQHq7cDCVqM1Qbes4n4T-196" style="edgeStyle=elbowEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="CLtFh6o93tBCStXbBhBC-939" target="FQHq7cDCVqM1Qbes4n4T-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CLtFh6o93tBCStXbBhBC-939" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;《JMSE》2024&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;(变轨距转向架)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillStyle=auto;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#CCE5FF;" parent="1" vertex="1">
-          <mxGeometry x="1119" y="58.94" width="106" height="36.34" as="geometry" />
+          <mxGeometry x="1119" y="-148.06" width="106" height="36.34" as="geometry" />
         </mxCell>
         <mxCell id="FQHq7cDCVqM1Qbes4n4T-197" style="edgeStyle=elbowEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classicThin;endFill=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="CLtFh6o93tBCStXbBhBC-941" target="FQHq7cDCVqM1Qbes4n4T-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CLtFh6o93tBCStXbBhBC-941" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;试验装置专利群&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;(ZL201910711404.4等)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillStyle=auto;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#CCE5FF;" parent="1" vertex="1">
-          <mxGeometry x="1378" y="54.34" width="132" height="43.66" as="geometry" />
+          <mxGeometry x="1378" y="-152.66" width="132" height="43.66" as="geometry" />
         </mxCell>
         <mxCell id="CLtFh6o93tBCStXbBhBC-949" value="构建多工况&lt;span style=&quot;background-color: initial;&quot;&gt;故障演化动力学模型&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="958.28" y="116" width="195" height="29.502762430939228" as="geometry" />
@@ -835,16 +835,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CLtFh6o93tBCStXbBhBC-937" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;国自然51575232&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;(转向架动态模拟)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#CCE5FF;strokeColor=#000000;fillStyle=auto;" parent="1" vertex="1">
-          <mxGeometry x="867" y="58.22999999999999" width="110.7" height="37.34" as="geometry" />
+          <mxGeometry x="867" y="-148.77" width="110.7" height="37.34" as="geometry" />
         </mxCell>
         <mxCell id="FQHq7cDCVqM1Qbes4n4T-19" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;刚-柔耦合&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;建模方法&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillStyle=auto;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#CCE5FF;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1023" y="55.99999999999999" width="70" height="39.57" as="geometry" />
+          <mxGeometry x="1023" y="-151" width="70" height="39.57" as="geometry" />
         </mxCell>
         <mxCell id="FQHq7cDCVqM1Qbes4n4T-20" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;模型校准平台&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillStyle=auto;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#CCE5FF;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1259.32" y="66.99" width="88.68" height="19.67" as="geometry" />
+          <mxGeometry x="1259.32" y="-140.01" width="88.68" height="19.67" as="geometry" />
         </mxCell>
         <mxCell id="FQHq7cDCVqM1Qbes4n4T-21" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;动力学&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;验证经验&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillStyle=auto;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#CCE5FF;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1546.06" y="58.99" width="70.51" height="34.67" as="geometry" />
+          <mxGeometry x="1546.06" y="-148.01" width="70.51" height="34.67" as="geometry" />
         </mxCell>
         <mxCell id="FQHq7cDCVqM1Qbes4n4T-33" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1050" y="171" width="160" height="104.82" as="geometry" />
