@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="xg3NwkXh1E9wNorcEbGM">
-    <mxGraphModel dx="1149" dy="1958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="326" dy="1393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -880,7 +880,7 @@
           <mxGeometry x="51.65612499999994" y="-5" width="59.24999999999999" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FQHq7cDCVqM1Qbes4n4T-46" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1058.9" y="261.67" width="136.34000000000015" height="121.70999999999998" as="geometry" />
+          <mxGeometry x="890.0000000000001" y="261.67" width="136.34000000000015" height="121.70999999999998" as="geometry" />
         </mxCell>
         <mxCell id="6Q54zIB8HF-9MkjnXNSy-28" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Hertz接触&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillStyle=auto;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#CCE5FF;" parent="FQHq7cDCVqM1Qbes4n4T-46" vertex="1">
           <mxGeometry y="61.55000000000001" width="37.34" height="59.16" as="geometry" />
