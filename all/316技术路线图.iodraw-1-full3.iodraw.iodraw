@@ -855,7 +855,7 @@
         <mxCell id="FQHq7cDCVqM1Qbes4n4T-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="FQHq7cDCVqM1Qbes4n4T-28" vertex="1">
           <mxGeometry x="-3" width="163" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="FQHq7cDCVqM1Qbes4n4T-26" value="故障植入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="FQHq7cDCVqM1Qbes4n4T-28" vertex="1">
+        <mxCell id="FQHq7cDCVqM1Qbes4n4T-26" value="故障仿真" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="FQHq7cDCVqM1Qbes4n4T-28" vertex="1">
           <mxGeometry x="51.65612499999994" y="-5" width="59.24999999999999" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FQHq7cDCVqM1Qbes4n4T-21" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;动力学&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;验证经验&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillStyle=auto;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#CCE5FF;container=0;" parent="1" vertex="1">
